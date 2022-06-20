@@ -51,7 +51,7 @@
 }
 
 /*
-    Mobile devices 2000px, 1500px, 650px
+    Mobile devices 2000px, 900px, 650px
 */
 @media screen and (max-width: 2000px){
     .app__aboutus-content_knife img{
