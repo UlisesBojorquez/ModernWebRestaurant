@@ -2,7 +2,7 @@
 Modern Restaurant Web Page with React.js
 
 ## Deployed page
-[https://geritch-resturant-ulises.netlify.app]
+https://geritch-resturant-ulises.netlify.app
 
 ## External resources
 * Deployment with https://www.netlify.com/
