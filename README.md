@@ -1,5 +1,5 @@
 # ModernWebRestaurant
-Modern Restaurant Web Page with React.js
+Responsive Modern Restaurant Web Page with React.js
 
 ## Deployed page
 https://geritch-resturant-ulises.netlify.app
